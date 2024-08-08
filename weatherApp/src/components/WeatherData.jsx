@@ -1,12 +1,13 @@
 import React, { useEffect, useRef, useState } from 'react'
-import search_icon from '../assets/searchs.png'
-import clear_icon from '../assets/clear.png'
-import cloud_icon from '../assets/cloud.png'
-import drizzle_icon from '../assets/drizzle.png'
-import humidity_icon from '../assets/humidity.png'
-import rain_icon from '../assets/rain.png'
-import snow_icon from '../assets/snow.png'
-import wind_icon_ from '../assets/wind.png'
+import search_icon from '../../public/image/searchs.png'
+import clear_icon from '../../public/image/clear.png';
+
+import cloud_icon from '../../public/image/cloud.png'
+import drizzle_icon from '../../public/image/drizzle.png'
+import humidity_icon from '../../public/image/humidity.png'
+import rain_icon from '../../public/image/rain.png'
+import snow_icon from '../../public/image/snow.png'
+import wind_icon_ from '../../public/image/wind.png'
 
 const Api_key = "b7c359cd1f92ed6d7ee8e52d508add9f";
 
